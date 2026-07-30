@@ -10,6 +10,8 @@
 ├── src/                   # Modular pipeline code
 │   ├── data_processing.py
 │   └── features.py
+├── LICENSE
+├── NOTICE
 ├── README.md              # The deep dive explanation of the macro context
 └── requirements.txt
 
